@@ -1,0 +1,1401 @@
+[
+  {
+    "question_number": 2,
+    "question": "The grid below has some grey boxes. How many grey boxes are there in the grid?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q2.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A 4 by 4 grid with exactly 5 individual cells shaded grey in an irregular scattered pattern, clearly outlined on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Count the shaded (grey) cells in the 4×4 grid. There are five grey cells, so the correct answer is 5.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 3,
+    "question": "Look at the grid below. The grey boxes form part of a shape. If you were to complete the shape into a square, how many more grey boxes would you need to add?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 5",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [],
+    "image_option": [
+      "G3_CT_PR_CH5_Q3_OPTION1.png",
+      "G3_CT_PR_CH5_Q3_OPTION2.png",
+      "G3_CT_PR_CH5_Q3_OPTION3.png",
+      "G3_CT_PR_CH5_Q3_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "A 5 by 5 grid where the top row and the left column are shaded grey, forming an L-shaped part of a square."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shaded cells form the top row (5 cells) and the left column (5 cells) of a 5×5 square, sharing the top‑left cell, so 9 cells are already grey. To complete the square we need to shade the remaining boundary cells: the right column (4 cells) and the bottom row (4 cells). The bottom‑right corner is counted in both sets, so the total new cells required are 4 + 4 – 1 = 7.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 4,
+    "question": "The grid below is missing its bottom‑right section. Four options are given to fill the missing section. Which option, when placed in the grid, will make ALL the grey boxes together form a square?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Option a",
+      "B. Option b",
+      "C. Option c",
+      "D. Option d"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q4.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH5_Q4_OPTION1.png",
+      "G3_CT_PR_CH5_Q4_OPTION2.png",
+      "G3_CT_PR_CH5_Q4_OPTION3.png",
+      "G3_CT_PR_CH5_Q4_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "A 4 × 4 grid with the bottom‑right 2 × 2 area blank (marked with a question mark). Grey cells fill the top‑left 2 × 2 area completely. Four 2 × 2 tile options (a, b, c, d) are shown beside the grid; only one tile is fully grey."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Option a is the only tile that is completely grey. Placing it in the missing bottom‑right 2 × 2 area completes a larger contiguous square of grey cells, satisfying the condition that all grey boxes together form a square.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 5,
+    "question": "Look at the shapes below. Circle all the shapes that are rectangles. Remember, squares are also rectangles!",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. A and B",
+      "B. A only",
+      "C. B only",
+      "D. None of the above"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [],
+    "image_option": [
+      "G3_CT_PR_CH5_Q5_OPTION1.png",
+      "G3_CT_PR_CH5_Q5_OPTION2.png",
+      "G3_CT_PR_CH5_Q5_OPTION3.png",
+      "G3_CT_PR_CH5_Q5_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "Four shapes arranged in a row: a rectangle (wider than tall) labelled A, a square labelled B, a triangle labelled C, and a circle labelled D."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Rectangles include both rectangles and squares. In the image, shape A is a rectangle and shape B is a square, both of which satisfy the definition of a rectangle. Therefore the correct answer is A and B.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 6,
+    "question": "How many rectangles (including squares) can you see in the picture below?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 4",
+      "B. 6",
+      "C. 8",
+      "D. 10"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q6.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "Six separate, non-overlapping rectangles and squares of different sizes scattered across the page, with no shared sides or edges."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The picture contains six distinct shapes, each of which is a rectangle (squares are also rectangles). Therefore, the total number of rectangles, including squares, is 6.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 7,
+    "question": "The figure below shows a big rectangle divided into smaller parts by lines. How many individual smaller rectangles or squares can you find inside it?",
+    "correct_answer": "D",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 4",
+      "B. 6",
+      "C. 8",
+      "D. 9"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q7.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A large rectangle divided into four equal smaller rectangles by one horizontal line and one vertical line drawn through the middle, creating a 2x2 grid."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "In a 2×2 grid there are 3 vertical lines (including the outer borders) and 3 horizontal lines. The number of rectangles is the number of ways to choose two distinct vertical lines times the number of ways to choose two distinct horizontal lines: C(3,2) × C(3,2) = 3 × 3 = 9. Hence, there are nine individual rectangles/squares.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 8,
+    "question": "The figure below shows a rectangle divided into two equal halves by a line down the middle. Count ALL the rectangles you can find — including small ones and any larger ones made by joining smaller parts together.",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q8.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A large rectangle split into two equal halves by a single vertical line in the middle, with the two halves and the whole rectangle clearly visible."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The figure contains three rectangles: the left half, the right half, and the whole rectangle formed by combining the two halves. No other rectangles can be formed because there is only one dividing line. Hence the total count is 3, which corresponds to option B.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 9,
+    "question": "Look at the picture. What is the name of the shape that has 3 sides and 3 corners?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Triangle",
+      "B. Square",
+      "C. Circle",
+      "D. Diamond"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [],
+    "image_option": [
+      "G3_CT_PR_CH5_Q9_OPTION1.png",
+      "G3_CT_PR_CH5_Q9_OPTION2.png",
+      "G3_CT_PR_CH5_Q9_OPTION3.png",
+      "G3_CT_PR_CH5_Q9_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "Four separate flat shapes drawn clearly on a white background: a triangle, a square, a circle, and a diamond, each labelled with a letter (A, B, C, D) but not named."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "A shape with 3 sides and 3 corners is called a triangle. Among the labelled shapes, the one that matches this description is the triangle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 10,
+    "question": "Look at the heart shape in the picture. One dotted line is drawn on it. Does the dotted line divide the heart into two equal, matching halves? Write Yes or No.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q10.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A simple heart shape with one vertical red dotted line drawn down its centre, shown on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The vertical dotted line is a line of symmetry for the heart shape, dividing it into two congruent halves, so the answer is Yes.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 11,
+    "question": "The square piece of paper in the picture has a dotted line down the middle. If you fold the paper along the dotted line, which part moves on top of which? Circle the correct answer.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. The left half lands on the right half.",
+      "B. The top half lands on the left half."
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q11.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A plain square drawn on white paper with a vertical red dotted line exactly down its centre, with the left side lightly shaded grey and the right side left white."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "When the paper is folded along the vertical dotted line, the left half of the square flips over and rests on the right half. Therefore the left half moves on top of the right half.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 12,
+    "question": "The sheet below has a red dotted line in the middle. A triangle is drawn on the left side and another shape is drawn on the right side. If the sheet is folded along the red dotted line, will the two shapes overlap exactly? Write Yes or No, and explain in one sentence.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q12.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A rectangular sheet divided by a vertical red dotted line; an equilateral triangle of the same size is drawn on both the left and right halves, positioned as mirror images of each other."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Yes, because the two triangles are mirror images across the fold line, so folding aligns them perfectly.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 14,
+    "question": "Look at the shapes below. Circle the ones that are cut into two equal halves.",
+    "correct_answer": "A, B, D",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Circle split horizontally",
+      "B. Square split diagonally",
+      "C. Rectangle split unevenly near one edge",
+      "D. Triangle split straight down the middle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [],
+    "image_option": [
+      "G3_CT_PR_CH5_Q14_OPTION1.png",
+      "G3_CT_PR_CH5_Q14_OPTION2.png",
+      "G3_CT_PR_CH5_Q14_OPTION3.png",
+      "G3_CT_PR_CH5_Q14_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "Four shapes each split by a dotted line: a circle split in the middle horizontally, a square split diagonally, a rectangle split unevenly near one edge, and a triangle split straight down the middle."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The circle is divided into two identical semicircles, the square's diagonal creates two congruent right‑angled triangles, and the triangle is cut along its line of symmetry, giving two equal halves. The rectangle is cut unevenly, so its two parts are not equal.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 17,
+    "question": "Look at the picture below. How many small boxes are there in total in this shape?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q17.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A staircase arrangement of unit squares: 1 square in the first step, 2 squares in the second step, and 3 squares in the third step, drawn on grid paper with each box clearly outlined."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shape consists of 1 box in the first step, 2 boxes in the second step, and 3 boxes in the third step. Adding them gives 1 + 2 + 3 = 6 boxes in total.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 18,
+    "question": "Look at the three pictures below. How many boxes are added each time you move from one picture to the next?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 1 box each time",
+      "B. 2 boxes then 3 boxes",
+      "C. 3 boxes each time",
+      "D. 4 boxes then 5 boxes"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q18.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "Three figures on grid paper: Term 1 shows a single box; Term 2 shows three boxes arranged in an L shape; Term 3 shows six boxes arranged in a larger L‑staircase shape, with arrows labeled Term 1, Term 2, Term 3."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Term 1 contains 1 box. Term 2 contains 3 boxes, which is 2 more than Term 1. Term 3 contains 6 boxes, which is 3 more than Term 2. Therefore the number of boxes added each time is 2 then 3.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 21,
+    "question": "Look at the shape below. How many sides and corners does it have? What is the name of this shape?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 3 sides, 3 corners, Triangle",
+      "B. 4 sides, 4 corners, Square",
+      "C. 5 sides, 5 corners, Pentagon",
+      "D. 6 sides, 6 corners, Hexagon"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q21.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A single large red triangle drawn clearly on a white background with its three sides and three corners visible."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shape shown is a triangle, which has three sides and three corners (vertices). Hence the correct description is 3 sides, 3 corners, Triangle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 22,
+    "question": "Look at the picture below. How many rectangles can you find? Write the number.",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q22.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A scattered collection of about ten 2D shapes including rectangles, circles, triangles, and squares of different sizes and colours mixed together on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Counting the rectangles in the picture gives four: two large rectangles and two smaller ones. Hence the correct answer is 4.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 23,
+    "question": "Look at the figure below. Can you find a triangle hidden inside it? Trace over it with your pencil.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q23.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A rectangle with a diagonal line from one corner to the opposite corner, forming two right triangles; the triangle to be traced is one of the right triangles formed inside the rectangle."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The diagonal of the rectangle creates two right‑angled triangles. One of these triangles is the hidden triangle that can be traced. It is bounded by the diagonal and two sides of the rectangle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 24,
+    "question": "Look at the big figure below and the four small shapes next to it. One of the small shapes is NOT hidden inside the big figure. Which one is it? Write its letter.",
+    "correct_answer": "C",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Triangle",
+      "B. Square",
+      "C. Circle",
+      "D. Rectangle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q24.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A composite figure made of overlapping squares and triangles forming a house-like shape on the left side, with four labelled small shapes on the right side: a) triangle, b) square, c) circle, d) rectangle, all drawn as black outlines on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The big figure consists of squares and triangles only, forming a house-like shape. Among the four small shapes, the triangle, square, and rectangle can be found as parts of the composite figure, but the circle does not appear anywhere inside the big figure. Therefore, the shape that is NOT hidden inside the big figure is the circle, which corresponds to option C.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 25,
+    "question": "Look at the shape below. What is the name of this shape?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Triangle",
+      "B. Square"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [],
+    "image_option": [
+      "G3_CT_PR_CH5_Q25_OPTION1.png",
+      "G3_CT_PR_CH5_Q25_OPTION2.png",
+      "G3_CT_PR_CH5_Q25_OPTION3.png",
+      "G3_CT_PR_CH5_Q25_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "A single large triangle drawn with clear bold lines on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shape is a triangle because it has three straight sides and three interior angles.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 26,
+    "question": "Look at the pattern below. Which shape comes next — a circle, triangle, or square?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Circle",
+      "B. Triangle",
+      "C. Square"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q26.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A repeating pattern of shapes in a row: circle, triangle, circle, triangle, circle, with a blank box at the end marked with a question mark."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The sequence alternates between a circle and a triangle: circle, triangle, circle, triangle, circle. Therefore the next shape should be a triangle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 27,
+    "question": "Look at the pattern. One shape is missing. Which shape should go in the empty box?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Star",
+      "B. Circle",
+      "C. Heart",
+      "D. Triangle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q27.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH5_Q27_OPTION1.png",
+      "G3_CT_PR_CH5_Q27_OPTION2.png",
+      "G3_CT_PR_CH5_Q27_OPTION3.png",
+      "G3_CT_PR_CH5_Q27_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": "A row of shapes: star, heart, star, heart, an empty box (outlined with a question mark), heart.",
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shapes follow an alternating pattern: star, heart, star, heart, ... Therefore the shape that should replace the empty box is a star, which corresponds to option A.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 28,
+    "question": "Look at the pattern below. Each step has one more dot than the step before. How many dots will be in Step 4?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q28.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "Three boxes in a row labelled Step 1, Step 2, Step 3, showing 1 dot, then 2 dots arranged in a row, then 3 dots arranged in a row, followed by an empty box labelled Step 4 with a question mark"
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Each step adds one more dot than the previous step. Step 1 has 1 dot, Step 2 has 2, Step 3 has 3, so Step 4 will have 4 dots. Therefore the correct answer is option B.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 30,
+    "question": "Look at the picture below. How many stars can you count?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 8",
+      "B. 9",
+      "C. 10",
+      "D. 11"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q30.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A scattered arrangement of 9 five-pointed stars of the same size, spread randomly across the image, some close together and some apart"
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "There are nine stars in the picture, so the correct answer is 9.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 32,
+    "question": "The picture below shows a figure made of different blocks. Count how many times each block appears and write the numbers in the table provided. Then circle the block that appears the most.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Square block",
+      "B. Rectangular block",
+      "C. L-shaped block"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q32.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A simple composite figure built from three distinct block shapes — a small square block, a rectangular block, and an L-shaped block — arranged together to form a larger shape, with each block type appearing a different number of times (square: 4, rectangle: 2, L-shape: 3), drawn with clear outlines and slight colour tinting per block type."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Counting the blocks in the figure gives: square block appears 4 times, rectangular block appears 2 times, and L-shaped block appears 3 times. The square block appears the most, so the correct answer is the square block (option A).",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 33,
+    "question": "Look at the star shape in the box. Find the same star in the picture below. Circle it.",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Circle",
+      "B. Star",
+      "C. Triangle",
+      "D. Square"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q33.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH5_Q33_OPTION1.png",
+      "G3_CT_PR_CH5_Q33_OPTION2.png",
+      "G3_CT_PR_CH5_Q33_OPTION3.png",
+      "G3_CT_PR_CH5_Q33_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "A simple 5-pointed star in a small box on the left, and a row of four shapes on the right: a circle, a 5-pointed star, a triangle, and a square. Only one shape matches the star exactly."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shape that matches the star in the box is the 5‑pointed star among the four shapes shown. Therefore the correct choice is option B.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 34,
+    "question": "Look at Shape X in the box. How many times can you find Shape X hidden inside the big picture? Count carefully and write your answer.",
+    "correct_answer": "C",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q34.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH5_Q34_OPTION1.png",
+      "G3_CT_PR_CH5_Q34_OPTION2.png",
+      "G3_CT_PR_CH5_Q34_OPTION3.png",
+      "G3_CT_PR_CH5_Q34_OPTION4.png"
+    ],
+    "chapter": 5,
+    "image_question_exp": [
+      "A small right‑angled triangle (Shape X) shown in a box on the left, and a larger picture on the right composed of overlapping geometric shapes where the same right‑angled triangle appears exactly three times."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The right‑angled triangle (Shape X) is present three times in the larger picture, so the correct answer is 3.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 35,
+    "question": "Look at Shape X carefully. It is shown in the box. Count how many times the exact same shape appears in the big grid below. Remember — do not count it if it is flipped or turned. Write your answer.",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 2",
+      "B. 3",
+      "C. 5",
+      "D. 6"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q35.png"
+    ],
+    "image_option": [],
+    "chapter": 5,
+    "image_question_exp": [
+      "A small irregular arrow-like shape (Shape X) pointing to the upper right, shown in a box. Below it, a 4x4 grid of similar shapes in different orientations — some pointing upper right (matching), some rotated 90 degrees, some flipped — with exactly 3 that match Shape X perfectly."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Only the shapes that are oriented exactly like Shape X (pointing upper right) are counted. In the 4x4 grid there are three such shapes; the others are rotated or flipped, so they are not counted. Therefore the correct answer is 3, option B.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 4,
+    "question": "A sports coach divides students into teams of 6 for a relay race. Look at the four classes below and choose the class whose students CANNOT be divided into complete teams of 6: a) 24 b) 30 c) 32 d) 54",
+    "correct_answer": "C",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 24",
+      "B. 30",
+      "C. 32",
+      "D. 54"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q4.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH7_Q4_OPTION1.png",
+      "G3_CT_PR_CH7_Q4_OPTION2.png",
+      "G3_CT_PR_CH7_Q4_OPTION3.png",
+      "G3_CT_PR_CH7_Q4_OPTION4.png"
+    ],
+    "chapter": 7,
+    "image_question_exp": [
+      "Four clipboards each labelled 'Class A: 24 students', 'Class B: 30 students', 'Class C: 32 students', 'Class D: 54 students', arranged side by side with small stick‑figure student icons on each clipboard proportional to the number."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Teams of 6 can be formed only when the number of students is a multiple of 6. 24 = 6×4, 30 = 6×5, and 54 = 6×9 are all multiples of 6. 32 is not a multiple of 6 (32 ÷ 6 = 5 remainder 2), so Class C with 32 students cannot be divided into complete teams of 6.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 6,
+    "question": "Look at the pattern below. Draw the next shape that comes after the last one shown.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Small circle",
+      "B. Big circle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q6.png"
+    ],
+    "image_option": [],
+    "chapter": 7,
+    "image_question_exp": [
+      "A horizontal row of 7 shapes following the pattern: big circle, small circle, big circle, small circle, big circle, small circle, big circle, with a blank box at the end for the student to fill in, drawn in simple black outlines."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shapes alternate between a big circle and a small circle. After the last shown big circle, the next shape in the sequence should be a small circle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 7,
+    "question": "One shape is missing from the pattern below. What shape should go in the empty box?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Diamond",
+      "B. Circle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q7.png"
+    ],
+    "image_option": [],
+    "chapter": 7,
+    "image_question_exp": [
+      "A horizontal row of 9 positions showing the pattern: diamond, circle, diamond, circle, diamond, blank box, diamond, circle, diamond. The blank box is indicated by an empty square outline."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shapes alternate between diamond and circle. After the fifth position (diamond) the next shape should be a circle, then the pattern continues with diamond, circle, etc. Therefore the missing shape is a circle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 8,
+    "question": "Look at the pattern below. Which shape is missing in the place of '?'? Choose the correct answer from options a, b, c, or d.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. big triangle",
+      "B. small triangle",
+      "C. big circle",
+      "D. small circle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q8.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH7_Q8_OPTION1.png",
+      "G3_CT_PR_CH7_Q8_OPTION2.png",
+      "G3_CT_PR_CH7_Q8_OPTION3.png",
+      "G3_CT_PR_CH7_Q8_OPTION4.png"
+    ],
+    "chapter": 7,
+    "image_question_exp": [
+      "A horizontal row of 10 shapes following the pattern: big star, small circle, big triangle, small star, big circle, small triangle, big star, small circle, question mark, small star. Below the row are four answer options labelled a) big triangle, b) small triangle, c) big circle, d) small circle, each showing the respective shape drawn in simple black outlines."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The sequence alternates between big and small shapes. All odd‑positioned shapes are big, even‑positioned shapes are small. The big shapes follow the order star → triangle → circle and then repeat. Positions 1, 3, 5, 7 are big star, big triangle, big circle, big star respectively, so position 9 should be the next big shape in the cycle, which is a big triangle. Hence the missing shape is a big triangle (option A).",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 21,
+    "question": "There are 20 marbles. If you put 4 marbles in each bag, how many bags will you need?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 8"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q21.png"
+    ],
+    "image_option": [],
+    "chapter": 7,
+    "image_question_exp": [
+      "Twenty marbles arranged in a row at the top of the picture, and below them several small open bags, suggesting the marbles are being distributed 4 per bag."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "There are 20 marbles and each bag can hold 4 marbles. Dividing 20 by 4 gives 5 bags needed, so the correct answer is option B.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 22,
+    "question": "Some stickers are divided equally into groups of 5. Exactly 4 groups are formed. How many stickers were there in all?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 15",
+      "B. 20",
+      "C. 25",
+      "D. 30"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q22.png"
+    ],
+    "image_option": [],
+    "chapter": 7,
+    "image_question_exp": [
+      "Four equal circles arranged in a row, each circle containing 5 star stickers, representing the four groups formed."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Each group has 5 stickers and there are 4 groups. Multiply: 5 × 4 = 20 stickers in total.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 24,
+    "question": "Look at the pattern below. Circle the group of shapes that repeats.",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. star, circle, triangle",
+      "B. circle, triangle, star"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q24.png"
+    ],
+    "image_option": [],
+    "chapter": 7,
+    "image_question_exp": [
+      "A horizontal row of shapes repeating in a cycle: star, circle, triangle, star, circle, triangle, star, circle, triangle. The first three shapes (star, circle, triangle) are enclosed in a dotted box to hint at the repeating unit. Clean, colourful, simple outline shapes on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The pattern repeats every three shapes: star, circle, triangle. This group is highlighted by the dotted box, so the correct repeating unit is the sequence star, circle, triangle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 26,
+    "question": "Look at the pattern below. The 7th shape in the pattern is missing. Which shape should go there?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Star",
+      "B. Moon",
+      "C. Sun"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q26.png"
+    ],
+    "image_option": [],
+    "chapter": 7,
+    "image_question_exp": [
+      "A horizontal sequence of shapes with the 7th position blank: star, moon, sun, star, moon, sun, blank box, moon, sun. The blank box is outlined with a question mark inside. Shapes are simple, colourful, and evenly spaced."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The pattern repeats every three shapes in the order star → moon → sun. Positions 1‑3 are star, moon, sun; positions 4‑6 repeat the same order. Therefore position 7 should start the next cycle with a star.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 27,
+    "question": "Look at the pattern below. One shape is missing. Which option — a, b, c, or d — correctly fills the missing place? Refer to the image.",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. triangle",
+      "B. hexagon",
+      "C. oval",
+      "D. rectangle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH5_Q27.png"
+    ],
+    "image_option": [
+      "G3_CT_PR_CH7_Q27_OPTION1.png",
+      "G3_CT_PR_CH7_Q27_OPTION2.png",
+      "G3_CT_PR_CH7_Q27_OPTION3.png",
+      "G3_CT_PR_CH7_Q27_OPTION4.png"
+    ],
+    "chapter": 7,
+    "image_question_exp": [
+      "A horizontal sequence of eight shapes with the 6th position blank: rectangle, oval, hexagon, rectangle, oval, blank box, rectangle, oval, hexagon. Shapes are simple outlines on a white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shapes follow a repeating pattern: rectangle, oval, hexagon. After the fifth shape (oval), the next shape should be a hexagon to continue the sequence. Option B is hexagon, which correctly fills the missing place.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 1,
+    "question": "Look at the shape below. What is the name of this shape?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Circle",
+      "B. Square",
+      "C. Triangle",
+      "D. Rectangle"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q1.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "A large, clearly drawn circle in the centre of the image, with no other shapes around it, on a plain white background."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The shape shown is a circle because it consists of all points that are at an equal distance from a single central point.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 2,
+    "question": "The dotted line on the shape below is a fold line. Draw what you will see if you fold the shape along the dotted line and look at only one half.",
+    "correct_answer": "A rectangle (half of the square)",
+    "question_type": "Descriptive",
+    "question_level": "",
+    "mcq_options": [],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q2.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "A square with a vertical dotted line exactly down the middle, dividing it into two equal rectangles."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "When the square is folded along the vertical dotted line, the two halves overlap. Looking at only one half after folding shows a rectangle that is half the width of the original square.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 3,
+    "question": "A square piece of paper was folded in half along the dotted line shown below to make a new shape. Draw or describe what the new shape looks like after folding.",
+    "correct_answer": "N/A",
+    "question_type": "Descriptive",
+    "question_level": "",
+    "mcq_options": [],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q3.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "A square with a horizontal dotted line exactly across the middle, dividing it into two equal halves. An arrow points from the left side of the square towards the right to suggest the folding direction."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Folding the square along the horizontal dotted line brings the top half onto the bottom half, resulting in a rectangle whose length is the same as the original square's side and whose width is half of that side.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 8,
+    "question": "There are 8 apples kept on a table. Half of them are red. How many apples are red?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 2",
+      "B. 4",
+      "C. 6",
+      "D. 8"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q8.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "8 apples arranged in a row on a table, with 4 on the left side coloured red and 4 on the right side coloured green, showing an equal split"
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "Half of 8 apples is 8 ÷ 2 = 4, so there are 4 red apples.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 13,
+    "question": "The picture shows some stars split into 2 equal groups. Count the stars in one group. What is half of all the stars?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q13.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "12 yellow stars arranged in two equal groups of 6, separated by a dotted vertical line in the middle, on a plain white background, with no numbers or labels."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "There are 12 stars in total, divided equally into two groups, so each group contains 6 stars. Therefore, half of all the stars is 6.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 20,
+    "question": "Look at the shapes below. Circle the shape that shows exactly one quarter of a circle.",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Shape 1 (full circle)",
+      "B. Shape 2 (quarter-circle)",
+      "C. Shape 3 (semicircle)",
+      "D. Shape 4 (rectangle)"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q20.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "Four shapes arranged in a row: (1) a full circle, (2) a quarter-circle (pie-slice shape with two straight edges meeting at a right angle and one curved edge), (3) a semicircle, (4) a rectangle. Each shape is clearly outlined and roughly the same size."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "A quarter of a circle occupies 90° of the full 360° and appears as a pie‑slice shape with two straight sides meeting at a right angle and a curved edge. Among the given shapes, only Shape 2 matches this description, so it is the correct answer.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 21,
+    "question": "Two identical semicircles are placed together along their straight edges as shown. What shape do they make together?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. Circle",
+      "B. Square",
+      "C. Rectangle",
+      "D. Oval"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q21.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "Two semicircles side by side with their flat (diameter) edges touching each other to form a complete circle, shown with a dotted line along the joining edge."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "When two identical semicircles are joined along their diameters, they together form a full circle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 23,
+    "question": "Two quarter-circles are placed with their straight edges joined as shown. Which shape is made?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. A full circle",
+      "B. A semicircle",
+      "C. A triangle",
+      "D. A square"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q23.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "Two quarter-circle (quadrant) pieces placed together with one straight edge of each touching, forming a semicircle shape, with a dotted line along the joined edges to show how they connect."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "When two quarter‑circles are joined along their straight edges (the diameters), the curved parts together form half of a full circle, i.e., a semicircle.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 27,
+    "question": "Look at the cube below. What number is on the top face of the cube?",
+    "correct_answer": "A",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 3",
+      "B. 5",
+      "C. 2",
+      "D. 6"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q27.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "A simple 3D cube drawn in isometric view with the number 3 on the top face, number 5 on the front face, and number 2 on the right face. Each face is clearly labelled with its number."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The top face of the cube is labelled with the number 3, so the correct answer is 3.",
+    "board": "CBSE",
+    "type": "New"
+  },
+  {
+    "question_number": 29,
+    "question": "Look at the cube below. The front face shows the number 2. The bottom face shows a number that is double the front face. What is the sum of the top face number and the bottom face number?",
+    "correct_answer": "B",
+    "question_type": "MCQ - Single",
+    "question_level": "",
+    "mcq_options": [
+      "A. 9",
+      "B. 11",
+      "C. 13",
+      "D. 15"
+    ],
+    "match_column_a": [],
+    "match_column_b": [],
+    "image_question": [
+      "G3_CT_PR_CH8_Q29.png"
+    ],
+    "image_option": [],
+    "chapter": 8,
+    "image_question_exp": [
+      "A 3D cube drawn in isometric view with the number 2 on the front face, the number 7 on the top face, and the bottom face hidden with a question mark."
+    ],
+    "image_option_exp": [],
+    "subject": "ct",
+    "grade": 3,
+    "topic_chosen": "Viewing Objects",
+    "explanation": "The front face shows 2, so the bottom face, being double, is 2 × 2 = 4. The top face is given as 7. The required sum is 7 + 4 = 11, which corresponds to option B.",
+    "board": "CBSE",
+    "type": "New"
+  }
+]
